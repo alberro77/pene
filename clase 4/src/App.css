@@ -1,0 +1,14 @@
+article{
+    border: 1px solid black;
+}
+
+article.completado{
+    background-color: gray;
+    text-decoration: line-through;
+}
+
+a.active{
+    text-decoration: underline;
+    background-color: red;
+    color: white;
+}
